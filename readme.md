@@ -3,7 +3,7 @@
 An occupancy grid mapping implemented in python using KITTI raw dataset - http://www.cvlibs.net/datasets/kitti/raw_data.php
 
 ### Dependencies
-1. Pykitti - For reading and parsing the dataset from KITTI
+1. Pykitti - For reading and parsing the dataset from KITTI - https://github.com/utiasSTARS/pykitti
 2. numpy
 3. matplotlib
 4. mayavi (if required for visualization)
